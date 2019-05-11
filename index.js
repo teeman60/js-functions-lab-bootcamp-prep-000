@@ -8,4 +8,5 @@ happyHolidaysTo(`Justin`)
 }
 function happyHolidayTo(holiday, name) {
   return "Happy ${holiday}, ${name}"
+  happyHoliday(Christmas, Taiye)
 }
